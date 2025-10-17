@@ -32,6 +32,6 @@ wheels/
 .DS_Store
 
 # Project specific
-demo.gif
+# demo.gif (commented out to allow demo in repo)
 *.png
 *.mp4

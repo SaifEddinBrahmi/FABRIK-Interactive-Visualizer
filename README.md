@@ -40,7 +40,7 @@ This approach is simpler and faster than traditional Jacobian-based methods!
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/FABRIK-Interactive-Visualizer.git
+git clone https://github.com/SaifEddinBrahmi/FABRIK-Interactive-Visualizer.git
 cd FABRIK-Interactive-Visualizer
 ```
 
